@@ -1,0 +1,14 @@
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\bin\Debug\net8.0\BTTH2_TranQuangDat_24520290.exe
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\bin\Debug\net8.0\BTTH2_TranQuangDat_24520290.deps.json
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\bin\Debug\net8.0\BTTH2_TranQuangDat_24520290.runtimeconfig.json
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\bin\Debug\net8.0\BTTH2_TranQuangDat_24520290.dll
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\bin\Debug\net8.0\BTTH2_TranQuangDat_24520290.pdb
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\BTTH2_TranQuangDat_24520290.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\BTTH2_TranQuangDat_24520290.AssemblyInfoInputs.cache
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\BTTH2_TranQuangDat_24520290.AssemblyInfo.cs
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\BTTH2_TranQuangDat_24520290.csproj.CoreCompileInputs.cache
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\BTTH2_TranQuangDat_24520290.dll
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\refint\BTTH2_TranQuangDat_24520290.dll
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\BTTH2_TranQuangDat_24520290.pdb
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\BTTH2_TranQuangDat_24520290.genruntimeconfig.cache
+D:\VS\BTTH2_TranQuangDat_24520290\BTTH2_TranQuangDat_24520290\obj\Debug\net8.0\ref\BTTH2_TranQuangDat_24520290.dll
